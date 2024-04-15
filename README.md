@@ -7,7 +7,4 @@
 ### Amazon Prime Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
 ### Hotstar Dataset - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
-<img src='Pics\1.jpg' class="center">
-<img src='Pics\2.jpg' class="center">
-<img src='Pics\3.jpg' class="center">
-
+In a world where data-driven decisions are paramount, our Netflix Power BI Dashboard Project empowers content creators, marketers, and decision-makers in the entertainment industry to navigate the Netflix universe effectively. Explore the nuances of content genres, audience preferences, and international contributions while unveiling the hidden gems within Netflix's content repository. Welcome to the era of data-driven entertainment strategy, brought to life through the power of Power BI.
